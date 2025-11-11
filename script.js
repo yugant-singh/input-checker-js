@@ -74,7 +74,7 @@ cardForm.addEventListener("submit", function (dets) {
     cardNumber.style.borderColor = "";
     expiryDate.style.borderColor = "";
     cvv.style.borderColor = "";
-    successMsg.textContent = "";
+   
     }
 
 })

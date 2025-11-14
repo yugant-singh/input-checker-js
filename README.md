@@ -1,6 +1,6 @@
 # 💳 Credit Card Form Validation
 
-## Live-demo - https://github.com/yugant-singh/input-checker-js.git
+## Live-demo - https://input-checkers.netlify.app/
 This project is a simple **Credit Card Form** built using **HTML, CSS, and JavaScript**, which includes form validation using Regular Expressions (RegEx).
 
 It validates the user's **Card Name**, **Card Number**, **Expiry Date**, and **CVV** fields before submission.  
